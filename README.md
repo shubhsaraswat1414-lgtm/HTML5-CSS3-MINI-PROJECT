@@ -61,3 +61,5 @@ Created as a mini project for web development.
 
 📅 Project Date
 February 2026
+Deploy link
+https://shubhsaraswat1414-lgtm.github.io/HTML5-CSS3-MINI-PROJECT/
